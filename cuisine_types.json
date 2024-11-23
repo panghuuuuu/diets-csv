@@ -1,4 +1,4 @@
-[{"cuisine_id":1,"Cuisine_type":"american"}
+{"cuisine_id":1,"Cuisine_type":"american"}
 {"cuisine_id":2,"Cuisine_type":"south east asian"}
 {"cuisine_id":3,"Cuisine_type":"mexican"}
 {"cuisine_id":4,"Cuisine_type":"chinese"}
@@ -16,4 +16,4 @@
 {"cuisine_id":16,"Cuisine_type":"middle eastern"}
 {"cuisine_id":17,"Cuisine_type":"asian"}
 {"cuisine_id":18,"Cuisine_type":"japanese"}
-{"cuisine_id":19,"Cuisine_type":"world"}]
+{"cuisine_id":19,"Cuisine_type":"world"}
