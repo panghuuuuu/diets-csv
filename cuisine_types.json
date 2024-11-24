@@ -1,19 +1,19 @@
-{"cuisine_id":1,"Cuisine_type":"american"}
-{"cuisine_id":2,"Cuisine_type":"south east asian"}
-{"cuisine_id":3,"Cuisine_type":"mexican"}
-{"cuisine_id":4,"Cuisine_type":"chinese"}
-{"cuisine_id":5,"Cuisine_type":"mediterranean"}
-{"cuisine_id":6,"Cuisine_type":"italian"}
-{"cuisine_id":7,"Cuisine_type":"french"}
-{"cuisine_id":8,"Cuisine_type":"indian"}
-{"cuisine_id":9,"Cuisine_type":"nordic"}
-{"cuisine_id":10,"Cuisine_type":"eastern europe"}
-{"cuisine_id":11,"Cuisine_type":"central europe"}
-{"cuisine_id":12,"Cuisine_type":"kosher"}
-{"cuisine_id":13,"Cuisine_type":"british"}
-{"cuisine_id":14,"Cuisine_type":"caribbean"}
-{"cuisine_id":15,"Cuisine_type":"south american"}
-{"cuisine_id":16,"Cuisine_type":"middle eastern"}
-{"cuisine_id":17,"Cuisine_type":"asian"}
-{"cuisine_id":18,"Cuisine_type":"japanese"}
-{"cuisine_id":19,"Cuisine_type":"world"}
+{"cuisine_id":0,"cuisine_type":"american"}
+{"cuisine_id":1,"cuisine_type":"south east asian"}
+{"cuisine_id":2,"cuisine_type":"mexican"}
+{"cuisine_id":3,"cuisine_type":"chinese"}
+{"cuisine_id":4,"cuisine_type":"mediterranean"}
+{"cuisine_id":5,"cuisine_type":"italian"}
+{"cuisine_id":6,"cuisine_type":"french"}
+{"cuisine_id":7,"cuisine_type":"indian"}
+{"cuisine_id":8,"cuisine_type":"nordic"}
+{"cuisine_id":9,"cuisine_type":"eastern europe"}
+{"cuisine_id":10,"cuisine_type":"central europe"}
+{"cuisine_id":11,"cuisine_type":"kosher"}
+{"cuisine_id":12,"cuisine_type":"british"}
+{"cuisine_id":13,"cuisine_type":"caribbean"}
+{"cuisine_id":14,"cuisine_type":"south american"}
+{"cuisine_id":15,"cuisine_type":"middle eastern"}
+{"cuisine_id":16,"cuisine_type":"asian"}
+{"cuisine_id":17,"cuisine_type":"japanese"}
+{"cuisine_id":18,"cuisine_type":"world"}
